@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BBSGenerator\BBS.csproj" />
+    <ProjectReference Include="..\PrimeNumbers\PrimeNumbers.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -2,28 +2,62 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "ClassLibrary/1.0.0": {
+      "BBS/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
-          "bin/placeholder/ClassLibrary.dll": {}
+          "bin/placeholder/BBS.dll": {}
         },
         "runtime": {
-          "bin/placeholder/ClassLibrary.dll": {}
+          "bin/placeholder/BBS.dll": {}
+        }
+      },
+      "PrimeNumbers/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/PrimeNumbers.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PrimeNumbers.dll": {}
+        }
+      },
+      "RSAGenerator/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "BBS": "1.0.0",
+          "PrimeNumbers": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RSAGenerator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RSAGenerator.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "ClassLibrary/1.0.0": {
+    "BBS/1.0.0": {
       "type": "project",
-      "path": "../ClassLibrary/ClassLibrary.csproj",
-      "msbuildProject": "../ClassLibrary/ClassLibrary.csproj"
+      "path": "../BBSGenerator/BBS.csproj",
+      "msbuildProject": "../BBSGenerator/BBS.csproj"
+    },
+    "PrimeNumbers/1.0.0": {
+      "type": "project",
+      "path": "../PrimeNumbers/PrimeNumbers.csproj",
+      "msbuildProject": "../PrimeNumbers/PrimeNumbers.csproj"
+    },
+    "RSAGenerator/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary/RSAGenerator.csproj",
+      "msbuildProject": "../ClassLibrary/RSAGenerator.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "ClassLibrary >= 1.0.0"
+      "BBS >= 1.0.0",
+      "PrimeNumbers >= 1.0.0",
+      "RSAGenerator >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -57,8 +91,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\JordanK\\source\\repos\\RSA_Algorithm\\ClassLibrary\\ClassLibrary.csproj": {
-              "projectPath": "C:\\Users\\JordanK\\source\\repos\\RSA_Algorithm\\ClassLibrary\\ClassLibrary.csproj"
+            "C:\\Users\\JordanK\\source\\repos\\RSA_Algorithm\\BBSGenerator\\BBS.csproj": {
+              "projectPath": "C:\\Users\\JordanK\\source\\repos\\RSA_Algorithm\\BBSGenerator\\BBS.csproj"
+            },
+            "C:\\Users\\JordanK\\source\\repos\\RSA_Algorithm\\ClassLibrary\\RSAGenerator.csproj": {
+              "projectPath": "C:\\Users\\JordanK\\source\\repos\\RSA_Algorithm\\ClassLibrary\\RSAGenerator.csproj"
+            },
+            "C:\\Users\\JordanK\\source\\repos\\RSA_Algorithm\\PrimeNumbers\\PrimeNumbers.csproj": {
+              "projectPath": "C:\\Users\\JordanK\\source\\repos\\RSA_Algorithm\\PrimeNumbers\\PrimeNumbers.csproj"
             }
           }
         }

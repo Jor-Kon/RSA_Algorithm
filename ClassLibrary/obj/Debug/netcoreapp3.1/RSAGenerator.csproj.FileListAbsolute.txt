@@ -1,0 +1,14 @@
+C:\Users\JordanK\source\repos\RSA_Algorithm\ClassLibrary\bin\Debug\netcoreapp3.1\RSAGenerator.deps.json
+C:\Users\JordanK\source\repos\RSA_Algorithm\ClassLibrary\bin\Debug\netcoreapp3.1\RSAGenerator.dll
+C:\Users\JordanK\source\repos\RSA_Algorithm\ClassLibrary\bin\Debug\netcoreapp3.1\RSAGenerator.pdb
+C:\Users\JordanK\source\repos\RSA_Algorithm\ClassLibrary\bin\Debug\netcoreapp3.1\BBSGenerator.dll
+C:\Users\JordanK\source\repos\RSA_Algorithm\ClassLibrary\bin\Debug\netcoreapp3.1\PrimeNumbers.dll
+C:\Users\JordanK\source\repos\RSA_Algorithm\ClassLibrary\bin\Debug\netcoreapp3.1\BBSGenerator.pdb
+C:\Users\JordanK\source\repos\RSA_Algorithm\ClassLibrary\bin\Debug\netcoreapp3.1\PrimeNumbers.pdb
+C:\Users\JordanK\source\repos\RSA_Algorithm\ClassLibrary\obj\Debug\netcoreapp3.1\RSAGenerator.csprojAssemblyReference.cache
+C:\Users\JordanK\source\repos\RSA_Algorithm\ClassLibrary\obj\Debug\netcoreapp3.1\RSAGenerator.AssemblyInfoInputs.cache
+C:\Users\JordanK\source\repos\RSA_Algorithm\ClassLibrary\obj\Debug\netcoreapp3.1\RSAGenerator.AssemblyInfo.cs
+C:\Users\JordanK\source\repos\RSA_Algorithm\ClassLibrary\obj\Debug\netcoreapp3.1\RSAGenerator.csproj.CoreCompileInputs.cache
+C:\Users\JordanK\source\repos\RSA_Algorithm\ClassLibrary\obj\Debug\netcoreapp3.1\RSAGenerator.csproj.CopyComplete
+C:\Users\JordanK\source\repos\RSA_Algorithm\ClassLibrary\obj\Debug\netcoreapp3.1\RSAGenerator.dll
+C:\Users\JordanK\source\repos\RSA_Algorithm\ClassLibrary\obj\Debug\netcoreapp3.1\RSAGenerator.pdb

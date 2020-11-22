@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RSAGenerator/1.0.0": {
+        "dependencies": {
+          "BBS": "1.0.0",
+          "PrimeNumbers": "1.0.0"
+        },
+        "runtime": {
+          "RSAGenerator.dll": {}
+        }
+      },
+      "BBS/1.0.0": {
+        "runtime": {
+          "BBSGenerator.dll": {}
+        }
+      },
+      "PrimeNumbers/1.0.0": {
+        "runtime": {
+          "PrimeNumbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RSAGenerator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BBS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PrimeNumbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

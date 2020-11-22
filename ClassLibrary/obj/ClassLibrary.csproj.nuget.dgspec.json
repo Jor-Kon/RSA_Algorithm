@@ -4,6 +4,16 @@
     "C:\\Users\\JordanK\\source\\repos\\RSA_Algorithm\\ClassLibrary\\ClassLibrary.csproj": {}
   },
   "projects": {
+    "C:\\Users\\JordanK\\source\\repos\\RSA_Algorithm\\BBSGenerator\\BBS.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JordanK\\source\\repos\\RSA_Algorithm\\BBSGenerator\\BBS.csproj",
+        "projectName": "BBS",
+        "projectPath": "C:\\Users\\JordanK\\source\\repos\\RSA_Algorithm\\BBSGenerator\\BBS.csproj"
+      },
+      "frameworks": {
+        "net471": {}
+      }
+    },
     "C:\\Users\\JordanK\\source\\repos\\RSA_Algorithm\\ClassLibrary\\ClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -30,7 +40,14 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\JordanK\\source\\repos\\RSA_Algorithm\\BBSGenerator\\BBS.csproj": {
+                "projectPath": "C:\\Users\\JordanK\\source\\repos\\RSA_Algorithm\\BBSGenerator\\BBS.csproj"
+              },
+              "C:\\Users\\JordanK\\source\\repos\\RSA_Algorithm\\PrimeNumbers\\PrimeNumbers.csproj": {
+                "projectPath": "C:\\Users\\JordanK\\source\\repos\\RSA_Algorithm\\PrimeNumbers\\PrimeNumbers.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -58,6 +75,16 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
+      }
+    },
+    "C:\\Users\\JordanK\\source\\repos\\RSA_Algorithm\\PrimeNumbers\\PrimeNumbers.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JordanK\\source\\repos\\RSA_Algorithm\\PrimeNumbers\\PrimeNumbers.csproj",
+        "projectName": "PrimeNumbers",
+        "projectPath": "C:\\Users\\JordanK\\source\\repos\\RSA_Algorithm\\PrimeNumbers\\PrimeNumbers.csproj"
+      },
+      "frameworks": {
+        "net471": {}
       }
     }
   }

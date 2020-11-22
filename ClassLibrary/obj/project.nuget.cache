@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4X2dP982mdUpuarCycYNisOWdmhLE3AtDAjUP9NIctsB8wbE3I4E/XhExD2bJ3hAxVxuEh33vQrfnucp5LqhLw==",
+  "dgSpecHash": "ZRmVXMEdHp0J1pt8lXJb1p/LOFSxoWvXfb8tkyjhpcuIA6vYnaZzaVsEchSXzNyX6nn9+0cHcAyKuJMrvEKbXw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JordanK\\source\\repos\\RSA_Algorithm\\ClassLibrary\\ClassLibrary.csproj",
+  "projectFilePath": "C:\\Users\\JordanK\\source\\repos\\RSA_Algorithm\\ClassLibrary\\RSAGenerator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

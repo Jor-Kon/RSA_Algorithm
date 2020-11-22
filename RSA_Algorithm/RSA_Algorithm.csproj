@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -6,7 +6,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary\ClassLibrary.csproj" />
+    <ProjectReference Include="..\BBSGenerator\BBS.csproj" />
+    <ProjectReference Include="..\ClassLibrary\RSAGenerator.csproj" />
+    <ProjectReference Include="..\PrimeNumbers\PrimeNumbers.csproj" />
   </ItemGroup>
 
 </Project>

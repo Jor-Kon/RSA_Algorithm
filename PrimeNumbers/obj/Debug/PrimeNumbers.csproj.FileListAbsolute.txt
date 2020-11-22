@@ -1,0 +1,6 @@
+C:\Users\JordanK\source\repos\RSA_Algorithm\PrimeNumbers\bin\Debug\PrimeNumbers.dll
+C:\Users\JordanK\source\repos\RSA_Algorithm\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+C:\Users\JordanK\source\repos\RSA_Algorithm\PrimeNumbers\obj\Debug\PrimeNumbers.csprojAssemblyReference.cache
+C:\Users\JordanK\source\repos\RSA_Algorithm\PrimeNumbers\obj\Debug\PrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\JordanK\source\repos\RSA_Algorithm\PrimeNumbers\obj\Debug\PrimeNumbers.dll
+C:\Users\JordanK\source\repos\RSA_Algorithm\PrimeNumbers\obj\Debug\PrimeNumbers.pdb
