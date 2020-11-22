@@ -1,0 +1,6 @@
+C:\Users\JordanK\source\repos\RSA_Algorithm\BBSGenerator\bin\Debug\BBSGenerator.dll
+C:\Users\JordanK\source\repos\RSA_Algorithm\BBSGenerator\bin\Debug\BBSGenerator.pdb
+C:\Users\JordanK\source\repos\RSA_Algorithm\BBSGenerator\obj\Debug\BBS.csprojAssemblyReference.cache
+C:\Users\JordanK\source\repos\RSA_Algorithm\BBSGenerator\obj\Debug\BBS.csproj.CoreCompileInputs.cache
+C:\Users\JordanK\source\repos\RSA_Algorithm\BBSGenerator\obj\Debug\BBSGenerator.dll
+C:\Users\JordanK\source\repos\RSA_Algorithm\BBSGenerator\obj\Debug\BBSGenerator.pdb
